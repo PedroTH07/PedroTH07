@@ -3,7 +3,7 @@
 <h3>sou um estudante de programação  full-stack com foco em back-end</h3>
 apaixonado por tecnologia
 
-<br>
+<br><br>
 
 - 🌱 estou aprendendo back-end, python e java
 - 🌱 no front-end, estou aprendendo reactjs
