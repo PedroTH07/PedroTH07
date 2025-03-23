@@ -33,14 +33,6 @@
 
 <br><br>
 
-```javascript
-const pedro = {
-  pronomes: 'ele' | 'dele',
-  code: ['Javascript', 'Python', 'HTML', 'CSS'],
-  tools: ['Postman', 'Git', 'Github', 'Node']
-}
-```
-
 <br><br>
 
 <p>
