@@ -1,10 +1,12 @@
 <h1>Olá! me chamo Pedro Silva!</h1>
 
-<h3>sou um estudante de programação de 16 anos</h3>
+<h3>sou um estudante de programação  full-stack com foco em back-end</h3>
+apaixonado por tecnologia
 
 <br>
 
-- 🌱 estou aprendendo back-end, node.js e python
+- 🌱 estou aprendendo back-end, python e java
+- 🌱 no front-end, estou aprendendo reactjs
 
 <br>
 
