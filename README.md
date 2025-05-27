@@ -1,12 +1,12 @@
 <h1>Olá! me chamo Pedro Silva!</h1>
 
-<h3>sou um estudante de programação  full-stack com foco em back-end</h3>
+<h3>sou um estudante de programação full-stack com foco em back-end</h3>
 apaixonado por tecnologia
 
 <br><br>
 
-- 🌱 estou aprendendo back-end, python e java
-- 🌱 no front-end, estou aprendendo reactjs
+- 🌱 estou aprendendo back-end, com foco em java com spring
+- 🌱 no front-end, estou aprendendo ReactJS, mas também pretendo ver Angular
 
 <br>
 
@@ -14,26 +14,12 @@ apaixonado por tecnologia
 
 <br>
 
-<div>
-   <!-- HTML -->
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="80"/></a> 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="80"/></a>
-  <!--JS-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="70"/></a>
-  <!--Node-->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="80"/></a>
-  <!--Python-->
-  <a href='https://www.w3schools.com/python/'><img src='https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png' height='70' alt='python'></a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="80"/> </a> 
-  <!-- POSTMAN -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="80"/> </a>
-  <!--Git-->
-  <a><img src='https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png' height='80' alt='git'></a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,nodejs)](https://skillicons.dev)
 
-<br><br>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+
 
 <br><br>
 
