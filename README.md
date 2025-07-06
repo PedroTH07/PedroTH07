@@ -14,11 +14,11 @@ apaixonado por tecnologia
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,angular,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
 
 <br><br>
