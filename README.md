@@ -1,27 +1,27 @@
-<h1>Olá! me chamo Pedro Silva!</h1>
+# Olá! me chamo Pedro Silva!
 
-<h3>sou um estudante de programação full-stack com foco em back-end</h3>
-apaixonado por tecnologia
+### Sou um estudante de programação com foco em back-end
+Também sou um apaixonado por tecnologia e por novos aprendizados
 
-<br><br>
+---
 
-- 🌱 estou aprendendo back-end, com foco em java com spring
-- 🌱 no front-end, estou aprendendo ReactJS, mas também pretendo ver Angular
-
-<br>
-
-## ferramentas e linguagens
+- 🌱 Minha linguagem de confiança para o back-end é o java juntamente ao spring boot
+- 🌱 Não deixo de ver sobre o front-end também, usando ou React ou Angular
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,angular,nodejs)](https://skillicons.dev)
+## Ferramentas e linguagens
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,angular,react,scss)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
 
-<br><br>
+<br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroth07&show_icons=true&locale=en&theme=dracula" alt="pedroth07" />
