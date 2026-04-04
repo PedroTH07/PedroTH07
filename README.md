@@ -16,7 +16,7 @@ Também sou um apaixonado por tecnologia e por novos aprendizados
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,angular,react,scss)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
