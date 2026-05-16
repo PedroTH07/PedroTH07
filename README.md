@@ -1,12 +1,13 @@
 # Olá! me chamo Pedro Silva!
 
 ### Sou um estudante de programação com foco em back-end
-Também sou um apaixonado por tecnologia e por novos aprendizados
+Atualmente no ensino médio-técnico, também sou um apaixonado por tecnologia e por novos aprendizados
 
 ---
 
-- 🌱 Minha linguagem de confiança para o back-end é o java juntamente ao spring boot
-- 🌱 Não deixo de ver sobre o front-end também, usando ou React ou Angular
+- 🌱 Tenho muito interesse por backend, sistemas robustos e escaláveis e também arquitetura de software
+- 🌱 Atualmente, gosto de trabalhar com Java e Spring ou TypeScript e Nest no servidor
+- 🌱 No frontend me aventuro no React
 
 <br>
 
@@ -14,20 +15,13 @@ Também sou um apaixonado por tecnologia e por novos aprendizados
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,angular,react,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nest,ts,react,scss)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
 
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroth07&show_icons=true&locale=en&theme=dracula" alt="pedroth07" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroth07&layout=compact&theme=dracula)
-</p>
 
 <br><br>
 
