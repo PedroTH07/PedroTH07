@@ -21,8 +21,6 @@ Atualmente no ensino médio-técnico, também sou um apaixonado por tecnologia e
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman)](https://skillicons.dev)
 
+<br>
 
-
-<br><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroth07&bg_color=00000&color=A491DF&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PedroTH07&theme=dracula)](https://git.io/streak-stats)
